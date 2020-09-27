@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "537564427876",
+    "firebase_url": "https://exer-7375c.firebaseio.com",
+    "project_id": "exer-7375c",
+    "storage_bucket": "exer-7375c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537564427876:android:0712ad1cb1a48d81265171",
+        "android_client_info": {
+          "package_name": "com.example.exer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537564427876-vse7oafr9vsc7ljmt4q5gkorgto1h845.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.exer",
+            "certificate_hash": "b9fb433739a90a5640c473175f90ef6d1c7637ef"
+          }
+        },
+        {
+          "client_id": "537564427876-hmme6g89p7m6i9uuk41kojbjbp2qt90u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4wKVx7ilgEEeXDCrpZhISa03eCGI80j8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537564427876-hmme6g89p7m6i9uuk41kojbjbp2qt90u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
